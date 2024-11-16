@@ -13,7 +13,7 @@ I am a first-year student in the Engineering Honors Program at the University of
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ## My Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=njclose&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=njclose&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njclose&layout=donut&theme=dark&show)](https://github.com/anuraghazra/github-readme-stats)
 
 
