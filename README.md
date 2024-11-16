@@ -14,7 +14,7 @@ I am a first-year student in the Engineering Honors Program at the University of
 
 ## My Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=njclose&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njclose&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njclose&layout=donut&theme=dark&show)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
