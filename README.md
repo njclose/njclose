@@ -11,6 +11,7 @@ I am a first-year student in the Engineering Honors Program at the University of
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+![R](https://img.shields.io/badge/r-%23276DC3?style=for-the-badge&logo=r&logoColor=white&link=https%3A%2F%2Fwww.r-project.org)
 
 ## My Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=njclose&theme=dark)](https://git.io/streak-stats)
