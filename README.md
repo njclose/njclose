@@ -1,6 +1,5 @@
-I am a first-year student in the Engineering Honors Program at the University of Colorado Boulder working to earn a major in computer science 🖥️ and minors in quantum engineering ⚛️ and business 👔. In my free time I love to develop software 👨‍💻, mountain bike 🚵‍♂️, ski ⛷️, and play piano 🎹.
-
 # About Me
+I am a first-year student in the Engineering Honors Program at the University of Colorado Boulder working to earn a major in computer science 🖥️ and minors in quantum engineering ⚛️ and business 👔. In my free time I love to develop software 👨‍💻, mountain bike 🚵‍♂️, ski ⛷️, and play piano 🎹.
 
 ## Tech Stack
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
