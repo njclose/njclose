@@ -1,8 +1,8 @@
 # About Me
 ## Eduation: University of Colorado - Boulder
 ### Pursued Degrees
-#### Major: Computer Science 🖥️
-#### Minors: Quantum Engineering ⚛️ and Business 👔.
+#### Major: Electrical Engineering ⚡
+#### Minors: Quantum Engineering ⚛️, Computer Science 🖥️, and Business 👔.
 
 ## Hobbies:
 - Software Development 👨‍💻
